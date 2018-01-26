@@ -1,0 +1,249 @@
+2017-03-04 22:11:50 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:11:50 [INFO]: Created channel=1
+2017-03-04 22:17:52 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:17:52 [INFO]: Created channel=1
+2017-03-04 22:17:52 [INFO]: excute commend df -h
+2017-03-04 22:19:11 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:19:11 [INFO]: Created channel=1
+2017-03-04 22:19:11 [INFO]: excute commend df -h
+2017-03-04 22:20:52 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:20:52 [INFO]: Created channel=1
+2017-03-04 22:20:52 [INFO]: excute commend df -h
+2017-03-04 22:27:20 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:27:20 [INFO]: Created channel=1
+2017-03-04 22:27:20 [INFO]: excute commend df -h
+2017-03-04 22:34:49 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:34:49 [INFO]: Created channel=1
+2017-03-04 22:34:49 [INFO]: excute commend df -h
+2017-03-04 22:59:26 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-04 22:59:26 [INFO]: Created channel=1
+2017-03-04 22:59:26 [INFO]: excute commend df -h
+2017-03-05 11:47:10 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 11:47:10 [INFO]: Created channel=1
+2017-03-05 11:55:25 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 11:55:25 [INFO]: Created channel=1
+2017-03-05 11:55:25 [INFO]: excute commend dh -h
+2017-03-05 11:55:38 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 11:55:38 [INFO]: Created channel=1
+2017-03-05 11:55:38 [INFO]: excute commend df -h
+2017-03-05 12:02:52 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 12:02:52 [INFO]: Created channel=1
+2017-03-05 12:02:52 [INFO]: excute commend dh -h
+2017-03-05 12:04:10 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 12:04:10 [INFO]: Created channel=1
+2017-03-05 12:04:10 [INFO]: excute commend dh -h
+2017-03-05 12:04:56 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 12:04:56 [INFO]: Created channel=1
+2017-03-05 12:04:56 [INFO]: excute commend df -h
+2017-03-05 19:12:14 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:12:14 [INFO]: Created channel=1
+2017-03-05 19:13:03 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:16:20 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:16:20 [INFO]: Created channel=1
+2017-03-05 19:16:41 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:22:47 [ERROR]: Socket Error: 10054
+2017-03-05 19:22:47 [WARNING]: Socket closed when connection was open
+2017-03-05 19:22:47 [WARNING]: Disconnected from RabbitMQ at 192.168.8.8:5672 (0): Not specified
+2017-03-05 19:23:46 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:23:46 [INFO]: Created channel=1
+2017-03-05 19:24:11 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:30:03 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:30:03 [INFO]: Created channel=1
+2017-03-05 19:30:22 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:31:54 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:31:54 [INFO]: Created channel=1
+2017-03-05 19:32:04 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:32:47 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:32:47 [INFO]: Created channel=1
+2017-03-05 19:32:53 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:34:36 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:34:36 [INFO]: Created channel=1
+2017-03-05 19:35:01 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:35:10 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:35:10 [INFO]: Created channel=1
+2017-03-05 19:35:20 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 19:36:18 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 19:36:18 [INFO]: Created channel=1
+2017-03-05 19:36:29 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:05:44 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:05:44 [INFO]: Created channel=1
+2017-03-05 20:06:06 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:09:18 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:09:18 [ERROR]: Socket Error: 10054
+2017-03-05 20:09:18 [WARNING]: Socket closed when connection was open
+2017-03-05 20:09:18 [WARNING]: Disconnected from RabbitMQ at 192.168.8.8:5672 (0): Not specified
+2017-03-05 20:09:22 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:09:22 [INFO]: Created channel=1
+2017-03-05 20:09:28 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:09:48 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:09:48 [INFO]: Created channel=1
+2017-03-05 20:09:54 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:11:35 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:13:48 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:13:48 [INFO]: Created channel=1
+2017-03-05 20:13:55 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:17:36 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:17:36 [INFO]: Created channel=1
+2017-03-05 20:17:44 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:22:53 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:22:53 [INFO]: Created channel=1
+2017-03-05 20:23:15 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:23:55 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:23:55 [INFO]: Created channel=1
+2017-03-05 20:24:03 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:25:58 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:25:58 [INFO]: Created channel=1
+2017-03-05 20:26:07 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:26:49 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:26:49 [INFO]: Created channel=1
+2017-03-05 20:26:53 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:29:18 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:29:18 [INFO]: Created channel=1
+2017-03-05 20:29:23 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:29:46 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:29:46 [INFO]: Created channel=1
+2017-03-05 20:29:50 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 20:53:41 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 20:53:41 [INFO]: Created channel=1
+2017-03-05 20:53:50 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-05 23:08:13 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-05 23:08:13 [INFO]: Created channel=1
+2017-03-05 23:08:21 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 00:33:43 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:33:43 [INFO]: Created channel=1
+2017-03-06 00:34:34 [INFO]: excute commend run "df -h" --hosts 11run "df -h" --hosts 192.168.3.55 10.4.3.4
+2017-03-06 00:34:42 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:34:42 [INFO]: Created channel=1
+2017-03-06 00:35:10 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 00:45:14 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:45:14 [INFO]: Created channel=1
+2017-03-06 00:45:35 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 00:47:30 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:47:30 [INFO]: Created channel=1
+2017-03-06 00:47:37 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 00:51:28 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:51:28 [INFO]: Created channel=1
+2017-03-06 00:51:37 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 00:53:19 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:53:19 [INFO]: Created channel=1
+2017-03-06 00:53:47 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 00:54:32 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:54:32 [INFO]: Created channel=1
+2017-03-06 00:54:46 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 00:54:46 [INFO]: <METHOD(['channel_number=1', 'frame_type=1', "method=<Channel.Close(['class_id=60', 'method_id=80', 'reply_code=406', 'reply_text=PRECONDITION_FAILED - unknown delivery tag 1'])>"])>
+2017-03-06 00:54:46 [WARNING]: Received remote Channel.Close (406): PRECONDITION_FAILED - unknown delivery tag 1
+2017-03-06 00:55:12 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:55:12 [INFO]: Created channel=1
+2017-03-06 00:55:24 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 00:55:24 [INFO]: Created channel=1
+2017-03-06 00:55:37 [INFO]: excute commend run "df -h" --hosts 192.168.8.8 192.168.8.9
+2017-03-06 15:19:18 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 15:19:18 [INFO]: Created channel=1
+2017-03-06 15:19:45 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:20:52 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 15:20:52 [INFO]: Created channel=1
+2017-03-06 15:22:04 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:22:56 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 15:22:56 [INFO]: Created channel=1
+2017-03-06 15:23:10 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:24:08 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:25:19 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:25:46 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 15:25:46 [INFO]: Created channel=1
+2017-03-06 15:25:54 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:26:26 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:27:19 [INFO]: excute commend run "ls" --hosts 192.168.8.9
+2017-03-06 15:28:22 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:29:06 [INFO]: excute commend run "ls" --hosts 192.168.8.9
+2017-03-06 15:31:04 [INFO]: excute commend run "free" --hosts 192.168.8.9
+2017-03-06 15:31:37 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 15:32:11 [INFO]: excute commend run "free" --hosts 192.168.8.9
+2017-03-06 15:33:43 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 15:33:43 [INFO]: Created channel=1
+2017-03-06 15:33:55 [INFO]: excute commend run "ls" --hosts 192.168.8.9
+2017-03-06 15:34:17 [INFO]: excute commend run "ls" --hosts 192.168.8.9
+2017-03-06 15:34:28 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:15:36 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:15:36 [INFO]: Created channel=1
+2017-03-06 16:15:44 [INFO]: excute commend run "ls" --hosts 192.168.8.9
+2017-03-06 16:16:50 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:16:50 [INFO]: Created channel=1
+2017-03-06 16:16:53 [INFO]: excute commend run "ls" --hosts 192.168.8.9
+2017-03-06 16:17:34 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:17:34 [INFO]: Created channel=1
+2017-03-06 16:17:51 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:20:17 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:20:17 [INFO]: Created channel=1
+2017-03-06 16:20:27 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:40:08 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:40:08 [INFO]: Created channel=1
+2017-03-06 16:40:27 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:41:46 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:41:46 [INFO]: Created channel=1
+2017-03-06 16:41:56 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:43:25 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:43:25 [INFO]: Created channel=1
+2017-03-06 16:43:30 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:53:40 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:53:40 [INFO]: Created channel=1
+2017-03-06 16:53:51 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 16:56:06 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 16:56:06 [INFO]: Created channel=1
+2017-03-06 16:56:42 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 17:18:22 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 17:18:22 [INFO]: Created channel=1
+2017-03-06 17:18:38 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 17:19:17 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 17:20:19 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 17:20:19 [INFO]: Created channel=1
+2017-03-06 17:20:33 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 17:21:16 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 17:21:16 [INFO]: Created channel=1
+2017-03-06 17:21:24 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 17:21:49 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 17:21:49 [INFO]: Created channel=1
+2017-03-06 17:21:57 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-06 18:08:18 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 18:08:18 [INFO]: Created channel=1
+2017-03-06 18:08:51 [INFO]: excute commend run "df -h" --hosts 192.168.3.55
+2017-03-06 18:27:16 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-06 18:27:16 [INFO]: Created channel=1
+2017-03-06 18:27:47 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 10:13:33 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 10:13:33 [INFO]: Created channel=1
+2017-03-08 10:14:47 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 10:48:06 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 10:48:06 [INFO]: Created channel=1
+2017-03-08 10:48:14 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 10:48:48 [INFO]: excute commend run "df -h" --hosts 192.168.8.9 192.168.8.8
+2017-03-08 10:50:37 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 10:50:37 [INFO]: Created channel=1
+2017-03-08 10:50:43 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 10:52:42 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 10:52:42 [INFO]: Created channel=1
+2017-03-08 10:52:52 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 10:53:09 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 10:53:09 [INFO]: Created channel=1
+2017-03-08 10:53:20 [INFO]: excute commend run "df -h" --hosts 192.168.8.9 192.168.8.8
+2017-03-08 16:23:18 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 16:23:18 [INFO]: Created channel=1
+2017-03-08 16:24:41 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 16:24:41 [INFO]: Created channel=1
+2017-03-08 16:24:43 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:25:43 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 16:25:43 [INFO]: Created channel=1
+2017-03-08 16:25:46 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:26:00 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:28:14 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 16:28:14 [INFO]: Created channel=1
+2017-03-08 16:28:16 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:28:25 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:28:40 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:29:01 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-08 16:29:01 [INFO]: Created channel=1
+2017-03-08 16:29:04 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-08 16:29:14 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-18 17:13:49 [INFO]: Connecting to 192.168.8.8:5672
+2017-03-18 17:13:49 [INFO]: Created channel=1
+2017-03-18 17:14:05 [INFO]: excute commend run "df -h" --hosts 192.168.8.9
+2017-03-18 17:16:30 [INFO]: excute commend run "df -h" --hosts 192.168.8.9 192.168.8.8
